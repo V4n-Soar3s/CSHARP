@@ -1,4 +1,4 @@
-﻿//exercicio com switch case
+﻿//exercicio sem switch case
 
 int x;
 string dia;
