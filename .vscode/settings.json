@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "exercicio1.sln",
+    "csharp.debug.console": "externalTerminal"
+    
+}
