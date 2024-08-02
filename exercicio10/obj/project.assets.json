@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vanes\\OneDrive\\Documentos\\estudos\\csharp\\exercicios10\\exercicios10.csproj",
-      "projectName": "exercicios10",
-      "projectPath": "C:\\Users\\vanes\\OneDrive\\Documentos\\estudos\\csharp\\exercicios10\\exercicios10.csproj",
+      "projectUniqueName": "C:\\Users\\vanes\\OneDrive\\Documentos\\estudos\\csharp\\exercicio10\\exercicio10.csproj",
+      "projectName": "exercicio10",
+      "projectPath": "C:\\Users\\vanes\\OneDrive\\Documentos\\estudos\\csharp\\exercicio10\\exercicio10.csproj",
       "packagesPath": "C:\\Users\\vanes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vanes\\OneDrive\\Documentos\\estudos\\csharp\\exercicios10\\obj\\",
+      "outputPath": "C:\\Users\\vanes\\OneDrive\\Documentos\\estudos\\csharp\\exercicio10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanes\\AppData\\Roaming\\NuGet\\NuGet.Config"
