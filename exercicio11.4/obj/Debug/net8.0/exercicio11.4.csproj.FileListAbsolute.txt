@@ -1,0 +1,15 @@
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\bin\Debug\net8.0\exercicio11.4.exe
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\bin\Debug\net8.0\exercicio11.4.deps.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\bin\Debug\net8.0\exercicio11.4.runtimeconfig.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\bin\Debug\net8.0\exercicio11.4.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\bin\Debug\net8.0\exercicio11.4.pdb
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.sourcelink.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\refint\exercicio11.4.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.pdb
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\exercicio11.4.genruntimeconfig.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio11.4\obj\Debug\net8.0\ref\exercicio11.4.dll
