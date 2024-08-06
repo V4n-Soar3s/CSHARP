@@ -1,0 +1,15 @@
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\bin\Debug\net8.0\exercicio16.1.exe
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\bin\Debug\net8.0\exercicio16.1.deps.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\bin\Debug\net8.0\exercicio16.1.runtimeconfig.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\bin\Debug\net8.0\exercicio16.1.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\bin\Debug\net8.0\exercicio16.1.pdb
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.sourcelink.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\refint\exercicio16.1.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.pdb
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\exercicio16.1.genruntimeconfig.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio16.1\obj\Debug\net8.0\ref\exercicio16.1.dll
