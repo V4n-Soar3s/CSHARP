@@ -1,0 +1,15 @@
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\bin\Debug\net8.0\exercicio17.exe
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\bin\Debug\net8.0\exercicio17.deps.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\bin\Debug\net8.0\exercicio17.runtimeconfig.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\bin\Debug\net8.0\exercicio17.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\bin\Debug\net8.0\exercicio17.pdb
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.sourcelink.json
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\refint\exercicio17.dll
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.pdb
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\exercicio17.genruntimeconfig.cache
+C:\Users\vanes\OneDrive\Documentos\estudos\csharp\exercicio17\obj\Debug\net8.0\ref\exercicio17.dll
